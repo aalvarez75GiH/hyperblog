@@ -2,8 +2,8 @@ body
 {
  text-align: center;
  font-family: Arial, Helvetica, sans-serif;
+ color: #333;
  font-size: 25px;
- color: brown;
  margin: 0;
  padding: 0;
 }
@@ -34,7 +34,7 @@ body
 
 #container h1
 {
-font-size: 50px; 
+font-size: 50px;
 }
 #post
 {
