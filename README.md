@@ -7,6 +7,7 @@
 * El flujo de trabajo ern GitHub
 * El amor por las buenas practicas
 * Trucos y shorcuts
+* incluso veremos como hacer empanadas jajajajajaj
 
 y como amable recordatorio: 
 # **Este README.md es una prueba**
