@@ -9,5 +9,9 @@
 * Trucos y shorcuts
 * incluso veremos como hacer empanadas jajajajajaj
 * Tambien veremos como mejorar Windows Millenium...
+* Este curso estara disponible en DVD's y cassettes...:)
+
+
+
 y como amable recordatorio: 
 # **Este README.md es una prueba**
